@@ -14,7 +14,7 @@ export const Title = styled.h1`
     position: absolute;
     background-size: 40px;
     ${rotateAnimation('4s')};
-    right: -60px;
+    left: -60px;
     top: 5px;
   }
 `
