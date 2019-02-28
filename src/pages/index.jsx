@@ -105,7 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Daniello Consulting" />
           <AboutSub>
-          Digital Agency for the Largest Niche and Speciality Demographic
+          Digital Agency for the Largest Niche and Speciality Demographic <br />
           "We are an experienced team of interdisciplinary individuals who will make your vision real."
           </AboutSub>
         </AboutHero>
