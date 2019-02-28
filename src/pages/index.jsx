@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> We're <br /> Daniello Consulting.
         </BigTitle>
-        <Subtitle> We are creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle> We are creating noice web experiences, desgins and strategic plans for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
