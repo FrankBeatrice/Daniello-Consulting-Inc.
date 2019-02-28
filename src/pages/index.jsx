@@ -133,9 +133,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; Daniello Consulting Inc. 2019 ® {' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          &copy; Daniello Consulting Inc. 2019 ® 
         </Footer>
       </Contact>
     </Parallax>
