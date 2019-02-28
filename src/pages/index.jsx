@@ -133,7 +133,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; Daniello Consulting Inc. 2019 ® {' '}
+          &copy; Daniello Consulting Inc. 2019 {' '}
           <a href=""></a>. {' '}
           <a href=""></a>.
         </Footer>
