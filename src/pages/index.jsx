@@ -105,8 +105,8 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Daniello Consulting" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+          Digital Agency for the Largest Niche and Speciality Demographic
+          "We are an experienced team of interdisciplinary individuals who will make your vision real."
           </AboutSub>
         </AboutHero>
         <AboutDesc>
@@ -115,6 +115,12 @@ const Index = () => (
           make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
           want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
           right?
+
+          Daniello was named after the Great-Grandfather of our founder. Frankie insvisioned this company to have integrity, he named it for a man that had a spark that was clearly unique. 
+          By doing so, he would never let our reputation or standard drop or be considered sub-par. When you invision what we do think of the 
+          Looney Tunes episode with Mel Blance directly inverneing in his cartoon. Daniello spawns creativity from the white of blank pages.
+
+        
         </AboutDesc>
       </About>
       <Contact offset={4}>
