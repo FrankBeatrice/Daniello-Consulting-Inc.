@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> We're <br /> Daniello Consulting.
+          Hello, <br /> We are <br /> Daniello Consulting.
         </BigTitle>
         <Subtitle> We are creating noice web experiences, desgins and strategic plans for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
@@ -72,7 +72,7 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="HoneySuckle Magazine"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            link="https://honeysucklemag.com"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             Webesite for Honeysuckle Magazine.
