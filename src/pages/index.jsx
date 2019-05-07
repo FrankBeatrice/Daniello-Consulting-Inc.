@@ -114,9 +114,8 @@ const Index = () => (
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
-          <!-- Start of Async Drift Code -->
-<script>
-"use strict";
+          
+          "use strict";
 
 !function() {
   var t = window.driftt = window.drift = window.driftt || [];
@@ -140,8 +139,6 @@ const Index = () => (
 }();
 drift.SNIPPET_VERSION = '0.3.1';
 drift.load('e4cxnfay6ufc');
-</script>
-<!-- End of Async Drift Code -->
           <ContactText>
             Say <a href="mailto:contact@danilleoconsulting.com">Hi</a> or find us on:{' '}
             <a href="https://www.facebook.com/Daniello-Consulting-516958655461970/">Facebook</a> &{' '}
